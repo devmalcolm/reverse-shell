@@ -3,7 +3,7 @@
 <h1 align="center">REVERSE SHELL</h1>
 
 <div align="center">
-  <strong>Lookup information software, open-source project made with Python3 - Flask</strong>
+  <strong>Reverse Shell Python3, open-source project made with Python3 - Flask</strong>
   <br>
   <br>
 
