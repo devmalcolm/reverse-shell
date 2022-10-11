@@ -16,7 +16,7 @@ all_current_address = []
 
 class reverseShell:
     def __init__(self):
-        self.raw_content = "https://raw.githubusercontent.com/zaqoQLF/reverse-shell/main/readme.md?token=GHSAT0AAAAAABYUUJWXCG5R6SAISJOQFZEKYZ4WJBA"
+        self.raw_content = "https://raw.githubusercontent.com/zaqoQLF/reverse-shell/main/src/reverse-shell/server.py"
         self.current_version = "0.0.2"
         self.github_page = "https://www.github.com/zaqoQLF"
         self.IP_HOST = ""
