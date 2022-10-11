@@ -38,6 +38,8 @@ Open-source project to easily find information about a specific user (Social Med
 
 Please use this program only on consenting people, I remind you that it is only for educational purposes and that I am not responsible for your actions
 
+
+**Multi clients not supported, only single client for the moment**
 <br>
 
 
