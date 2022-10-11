@@ -34,7 +34,7 @@
 </div>
 <br>
 
-Open-source project to easily find information about a specific user (Social Media Hunt) made with Python3, Flask(HTML5, CSS3)
+Open-source project in Python3, Simple reverse shell, execute commands remotly and your victim computer
 
 Please use this program only on consenting people, I remind you that it is only for educational purposes and that I am not responsible for your actions
 
