@@ -1,0 +1,11 @@
+os
+time
+requests
+pyautogui
+getpass
+socket
+subprocess
+platform
+re
+webbrowser
+colorama
